@@ -45,3 +45,7 @@ Use [uptimerobot.com](https://uptimerobot.com) to make your repl online 24/7.
 ----
 
 > Voicecord by SealedSaucer is licensed under Attribution 4.0 International 
+
+----
+
+> Fork from https://github.com/SealedSaucer/Voicecord
